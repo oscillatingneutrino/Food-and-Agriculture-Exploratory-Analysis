@@ -1,17 +1,11 @@
 # Food-and-Agriculture-Exploratory-Analysis
 
 Questions
-How has global warming affected land temperatures?
 
-What trends have emissions followed?
+What trends have emission intensities and total emissions followed per each source?
 
-What effect has land use had on global warming?
+How have food costs changed as emissions and food yields change?
 
-What trends have food availability for different food sectors followed?
+Which country gives the individual the most purchasing power for food?
 
-How has the availability of food changed?
-
-How have trends in exporting/importing changed?
-
-The production of which item has had the most effect on emission intensities?
-
+How has the change in emissions change the yield in food sources?
