@@ -6,7 +6,7 @@
 - [Project Background](#Project-Background)
 - [Trend in Total Yield](#Trend-In-Total-Yield)
 - [Explanation of Differences in Product Pricing](#Recommendations)
-- [References](#References)
+- [Acknowledgements](#Acknowledgements)
 
 
 ## Executive Summary
@@ -27,3 +27,14 @@ Through this study, it was discovered that:
 Currently, it is inacorrect to state that increases in the changes in land temperature have had any impact on agricultural yields and costs of food; other factors, including those that involve current economic policies and trends in international trading have likely had effects on changes pricing; likewise, although emissions have seen changes for Canada, Mexico, and the United States, the data for other countries was not included and is likely to have a greater impact than those from the studied country.
 
 ## Project Background
+
+## Trend In Total Yield
+
+By analyzing the dashboard dedicated to trends in product yield, the minimal variance per product and as a total depict consistent results in yield. On occasion, one will note specific drop offs or slight increases in the yield. One must understand that these changes occur while increases in land temperature and emissions continue to rise. This implies that changes in the concentration of carbon dioxide in the atmosphere have led to overall increases in agricultural yields. This therefore lends to the conclusion that higher temperatures are not entirely responsible for changes in the yield and that there are other factors at play. Such factors include temporary droughts, degradation in the condition of soil, and changes in agricultural practices.
+
+
+## Explanation of Differences in Product Pricing
+When analyzing the chart, one can note that the product prices for Mexico far exceed those of their northern neighbors. This trend is due to a variety of factors that affect all facets of the agricultural business in Mexico, which, although at first glance may give the appearance that farming in Mexico is an incredibly lucrative business, farmers earn less than their american counterparts.
+
+## Acknowledgements
+I would like to thank the Food and Agriculture Organization of the United Nations for their provision of the data that made this project possible.
