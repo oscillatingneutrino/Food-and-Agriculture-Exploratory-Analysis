@@ -4,8 +4,8 @@
 ## Table of Contents
 - [Executive Summary](#Executive-Summary)
 - [Project Background](#Project-Background)
-- [Trend in Public Interest](#Trend-In-Public-Interest)
-- [Recommendations](#Recommendations)
+- [Trend in Total Yield](#Trend-In-Total-Yield)
+- [Explanation of Differences in Product Pricing](#Recommendations)
 - [References](#References)
 
 
