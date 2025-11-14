@@ -4,10 +4,8 @@
 ## Table of Contents
 - [Executive Summary](#Executive-Summary)
 - [Project Background](#Project-Background)
-- [Key Metric Insights](#Tariffs-Affecting-E-Commerce-From-China)
 - [Trend in Public Interest](#Trend-In-Public-Interest)
 - [Recommendations](#Recommendations)
-- [Clarifications](#Clarifications)
 - [References](#References)
 
 
