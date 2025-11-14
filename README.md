@@ -23,17 +23,9 @@ Through this study, it was discovered that:
 * **Agricultural Yields:** There is minimally observed variance in the overall agricultural yield, although some sources (i.e. green corn, potatoes) have seen increases in yields.
 * **Emission Intensity:** Although on a downward trend, the intensity of emissions has remained more or less constant except for Cereals excluding rise, which had as much as a 75% dropoff in value.
 * **Unaffordability of a Healthy Diet:** The affordability of a healthy diet has increased for Mexico, experienced minimal decreases for Canada, and stark increases for the United States.
-With the increased demand for higher food yields for a growing population, we must now worry about our carbon emissions and the effect it has had on our food yields, changes in land temperatures, and the rising costs. In this study, the emissions of products affecting global temperatures was studied along with its relation to rising land temperatures and food costs; likewise, agricultural yields were measured from 2016 to 2023 to determine if global warming has had any effect on production.
+* **Producer Prices:** The producer prices of Mexico heavily outweigh those of the United States and Mexico combined; across the board, all agricultural products have seen increases in producer prices; only green coffee from the United States has a higher producer price than that of Mexico (a difference of value of 36,000 standard local currency).
+*  **Inflation in Food Pricing:** From 2016 to 2022, inflation continued to increase, but begun decreasing thereafter by as much as 52% (USA).
 
+Currently, it is inacorrect to state that increases in the changes in land temperature have had any impact on agricultural yields and costs of food; other factors, including those that involve current economic policies and trends in international trading have likely had effects on changes pricing; likewise, although emissions have seen changes for Canada, Mexico, and the United States, the data for other countries was not included and is likely to have a greater impact than those from the studied country.
 
-Questions
-
-What trends have emission intensities and total emissions followed per each source?
-
-How have food costs changed as emissions and food yields change?
-
-Which country gives the individual the most purchasing power for food?
-
-How has the change in emissions change the yield in food sources?
-
-Has employment changes as a result of increasing emissions? Causation is not correlation
+## Project Background
