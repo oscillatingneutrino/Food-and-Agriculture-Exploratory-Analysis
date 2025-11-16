@@ -34,6 +34,8 @@ This project used data from the Food and Agriculture Organization of the United 
 
 ## Trend in Total Agricultural Yield
 
+![TableauDashScreenshots/yield.png](yield.png)
+
 Agricultural yield has remained at consistent levels despite increases in changes in land temperature and total emissions. The release of greenhouse gases, the rises in global temperature, and the consequent effects this process has had on the environment is more nuanced and outside of the scope of this project.
 
 The NASA article, "*Rising Carbon Dioxide Levels Will Help and Hurt Crops*" explores how the increases in the concentration of Carbon Dioxide in the atmosphere can have the effect of mitigating yield losses while also increasing water use efficiency through the increase in the rate in photosynthesis under certain conditions; this effect, however, does not overshadow any negative effects caused by increased Carbon Dioxide emissions.
