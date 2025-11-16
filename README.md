@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Executive Summary](#Executive-Summary)
 - [Project Background](#Project-Background)
+- [Trends in Emissions and Changes in Land Temperatures](#Trends-in-Emissions-and-Changes-in-Land-Temperatures)
 - [Trend in Total Agricultural Yield](#Trend-In-Total-Agricultural-Yield)
 - [Explanation of Differences in Product Pricing](#Recommendations)
 - [Acknowledgements](#Acknowledgements)
@@ -28,6 +29,8 @@ Overall, agricultural yields for multiple products have remained at constant lev
 
 ## Project Background
 This project used data from the Food and Agriculture Organization of the United Nations's publically available datasets, which provide standardized economic data and agricultural/environmental indicators. This project focuses specifically on data for Canada, Mexico, and the United States. The project made use of Excel, Tableau, and MySQL to prepare and visualize the provided data.
+
+## Trends in Emissions and Changes in Land Temperatures
 
 ## Trend in Total Agricultural Yield
 
