@@ -32,6 +32,7 @@ This project used data from the Food and Agriculture Organization of the United 
 
 ## Trends in Emissions and Changes in Land Temperatures
 ![tempemit.png](TableauDashScreenshots/tempemit.png)
+*The overall emission, emission intensity, and temperature growth for Mexico,Canada, an the United States. temperature growth and total emissions are on a rising trend; emission intensity show gradual decrement. Data taken from Faostat.*
 
 From 2016 to 2021, land temperatures across all three countries experienced major variation; from 2016 to 2019, the median change in temperature was beginning to decrease at different rates for each country, but from 2019 to 2023, Mexico experienced a gradual increment in temperature, while Canada nearly doubled its median change in temperature (234.20% increment); on the other hand, the United States, which had the highest median value, has declined in temperature growth to a value 73.40% that of its value in 2016. This being said, however, despite the changes, all studied countries are expected to continue to rise in median temperatures, but at different rates.
 
@@ -44,7 +45,7 @@ The performed analysis explains that land temperatures will continue to increase
 ## Trend in Total Agricultural Yield
 
 ![yieldsc.png](TableauDashScreenshots/yieldsc.png)
-*The overall yield for Mexico,Canada, an the United States. Overall yields show consistent progress. Data taken from Crops and livestock products. Faostat.*
+*The overall yield for Mexico,Canada, an the United States. Overall yields show consistent progress. Data taken from Faostat.*
 
 Agricultural yield has remained at consistent levels despite increases in changes in land temperature and total emissions. The release of greenhouse gases, the rises in global temperature, and the consequent effects this process has had on the environment is more nuanced and outside of the scope of this project.
 
