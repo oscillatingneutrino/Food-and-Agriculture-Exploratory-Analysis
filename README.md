@@ -6,7 +6,7 @@
 - [Project Background](#Project-Background)
 - [Trends in Emissions and Changes in Land Temperatures](#Trends-in-Emissions-and-Changes-in-Land-Temperatures)
 - [Trend in Total Agricultural Yield](#Trend-In-Total-Agricultural-Yield)
-- [Explanation of Differences in Product Pricing](#Recommendations)
+- [Explanation of Differences in Product Pricing](#Explanation-of-Differences-in-Product-Pricing)
 - [Acknowledgements](#Acknowledgements)
 
 
