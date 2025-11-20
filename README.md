@@ -43,7 +43,7 @@ The performed analysis explains that land temperatures will continue to increase
 
 ## Trend in Total Agricultural Yield
 
-![yield.png](TableauDashScreenshots/yield.png)
+![yieldsc.png](TableauDashScreenshots/yieldsc.png)
 *The overall yield for Mexico,Canada, an the United States. Overall yields show consistent progress. Data taken from Crops and livestock products. Faostat.*
 
 Agricultural yield has remained at consistent levels despite increases in changes in land temperature and total emissions. The release of greenhouse gases, the rises in global temperature, and the consequent effects this process has had on the environment is more nuanced and outside of the scope of this project.
