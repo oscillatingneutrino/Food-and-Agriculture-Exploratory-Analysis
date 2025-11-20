@@ -54,6 +54,8 @@ In this dataset, yields displayed a low sensitivity with total emissions and ris
 
 
 ## Explanation of Differences in Product Pricing
+
+![sampleproducerprices.png](TableauDashScreenshots/sampleproducerprices.png)
 Product prices for Mexico far exceed those of its northern neighbors. Not only that, but product pricing has continued to increase across all products. This result is due to a variety of factors: 
 * Mexico imports materials like fertilizers and pesticides, both of which have a high cost because of the war between Russia and Ukraine
 * Disruptions in the supply chain caused by COVID-19 impacted the cost of products
