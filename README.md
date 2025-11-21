@@ -33,7 +33,7 @@ This project used data from the Food and Agriculture Organization of the United 
 
 ## Trends in Emissions and Changes in Land Temperatures
 ![tempemit.png](TableauDashScreenshots/tempemit.png)
-*The overall emission, emission intensity, and temperature growth for Mexico, Canada, and the United States. temperature growth and total emissions are on a rising trend; emission intensity shows gradual decrease. Data taken from Faostat.*
+*The overall emission, emission intensity, and temperature growth for Mexico, Canada, and the United States. temperature growth and total emissions are on a rising trend; emission intensity shows gradual decrease. Data taken from Faostat. Tableau Link: https://public.tableau.com/views/EmissionsandTemperature/emissionsandtemperature?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 From 2016 to 2021, land temperatures across all three countries experienced major variation; from 2016 to 2019, the median change in temperature was beginning to decrease at different rates for each country, but from 2019 to 2023, Mexico experienced a gradual increment in temperature, while Canada nearly doubled its median change in temperature (234.20% increment); on the other hand, the United States, which had the highest median value, has declined in temperature growth to a value 73.40% that of its value in 2016. This being said, however, despite the changes, all studied countries are expected to continue to rise in median temperatures, but at different rates.
 
@@ -46,7 +46,8 @@ The performed analysis explains that land temperatures will continue to increase
 ## Trend in Total Agricultural Yield
 
 ![yields.png](TableauDashScreenshots/yields.png)
-*The total yield across all sources for Mexico, Canada, and the United States. Overall yields show consistent progress in increments. Data taken from Faostat.*
+*The total yield across all sources for Mexico, Canada, and the United States. Overall yields show consistent progress in increments. Data taken from Faostat.
+Tableau Link: https://public.tableau.com/views/YieldsDash/yields?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 Agricultural yield has remained at consistent levels despite increases in changes in land temperature and total emissions. The release of greenhouse gases, the rises in global temperature, and the consequent effects this process has had on the environment is more nuanced and outside of the scope of this project.
 
@@ -68,7 +69,7 @@ Product prices for Mexico far exceed those of its northern neighbors. Not only t
 
 ## Trends in Affordability and Inflation
 ![TableauDashScreenshots/newaffordability.png](TableauDashScreenshots/newaffordability.png)
-*The Changes in Affordability and Inflation for Mexico, Canada, and the United States. Shown with changes in inflation is the prevalence of the affordability of a healthy diet. Recently, inflation underwent drastic decreases, while a healthy diet has generally decreased in affordability. Data taken from Faostat. Only data from 2017 to 2023 was available for metrics relating to affordability*
+*The Changes in Affordability and Inflation for Mexico, Canada, and the United States. Shown with changes in inflation is the prevalence of the affordability of a healthy diet. Recently, inflation underwent drastic decreases, while a healthy diet has generally decreased in affordability. Data taken from Faostat. Only data from 2017 to 2023 was available for metrics relating to affordability. Tableau Link: https://public.tableau.com/views/AffordabilityandInflation/affordabilityandinflation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 Four different measurements were used to determine the affordability of a healthy diet based on the local currency, affordability of a healthy diet based on the purchasing power of an individual, prevalence of unaffordability, and a count for the number of people incapable of affording a healthy diet. Across all metrics, Mexico had the highest costs of a healthy diet and the highest rates of individuals unable to afford a healthy diet, reaching a peak of about 37.10 million people in 2020, or approximately 30% of the population. Further review reveals that all countries show continuing trends of price increases of a healthy diet. Canada and the United States show marginal increments (1.10 to 1.20 and 16.20 to 16.30, respectively) in the amount of people incapable of affording a healthy diet, but Mexico has reduced the amount of people by about 9 million.
 
