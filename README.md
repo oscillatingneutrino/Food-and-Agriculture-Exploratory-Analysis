@@ -65,7 +65,7 @@ Product prices for Mexico far exceed those of its northern neighbors. Not only t
 *  In a few regions, producers report extortion from organized crime groups, adding to operational costs.
 
 ## Trends in Inflation and Affordability
-
+![TableauDashScreenshots/affordability and inflation.png](TableauDashScreenshots/affordability-and-inflation.png)
 
 ## Acknowledgements
 I would like to thank the Food and Agriculture Organization of the United Nations for their provision of the data that made this project possible.
