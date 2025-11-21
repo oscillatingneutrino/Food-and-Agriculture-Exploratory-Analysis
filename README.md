@@ -66,9 +66,13 @@ Product prices for Mexico far exceed those of its northern neighbors. Not only t
 *  Mexican producers often receive higher prices because of export demand and high labor costs
 *  In a few regions, producers report extortion from organized crime groups, adding to operational costs.
 
-## Trends in Inflation and Affordability
+## Trends in Affordability and Inflation
 ![TableauDashScreenshots/affordability and inflation.png](TableauDashScreenshots/affordability_and_inflation.png)
-*The Changes in Affordability and Inflation for Mexico, Canada, and the United States. Recently, inflation underwent drastic decreases, while a healthy diet has generally decreased in affordability. Data taken from Faostat.*
+*The Changes in Affordability and Inflation for Mexico, Canada, and the United States. Shown with changes in inflation is the prevalence of the affordability of a healthy diet. Recently, inflation underwent drastic decreases, while a healthy diet has generally decreased in affordability. Data taken from Faostat.*
+
+Four different measurements of affordability were used in order to determine the affordability of a healthy diet based on the local currency, affordability of a healthy diet based on the purchasing power of an individual, prevalence of unaffordability, and a count for the number of people incapable of affording a healthy diet. Across all of these metrics, Mexico had the highest costs of a healthy diet and the highest rates of individuals unable to afford a healthy diet, reaching a peak of 37.10 million people in 2020, or approximately 30% of the population. Still, all countries show continuing trends of price increases of a healthy diet. That being said, Mexico has reduced the amount of people incapable of affording a healthy diet by about 9 million, while Canada and the United States show marginal increments (1.10 to 1.20 and 16.20 to 16.30, respectively)
+
+Up until 2022 (when all countries reached their maximum value in inflation) inflation was on a rise, but since then, inflation has gone down by approximately 
 
 ## Acknowledgements
 I would like to thank the Food and Agriculture Organization of the United Nations for their provision of the data that made this project possible.
