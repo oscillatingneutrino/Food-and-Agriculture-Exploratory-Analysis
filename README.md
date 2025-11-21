@@ -24,8 +24,8 @@ This report analyzes emission data, temperature data, producer pricing, and rate
 * **Agricultural Yields:** Overall, there is minimally observed variance in the agricultural yield, though some sources (i.e. green corn, potatoes) have shown gradual increases in yields.
 * **Producer Prices:** The producer prices of Mexico heavily outweigh those of the United States and Canada combined across all agricultural products. Green coffee from the United States is the exception, with a higher producer price than that of Mexico by 36,000 units of standard local currency.
 * **Affordability of a Healthy Diet:** Affordability of a healthy diet has declined for Mexico and the United States (more so by the latter); Canada experienced minimal increases.
-*  **Inflation in Food Pricing:** From 2016 to 2022, inflation continued to increase, but began declining thereafter in the United States by as much as 52%.
-
+*  **Inflation in Food Pricing:** From 2016 to 2022, inflation continued to increase, but began declining thereafter for all countries. Canada had the smallest change in inflation after the surge with a change of approximately 10%, while the United States had the highest change, with a decrease of 66.39%.
+  
 Overall, agricultural yields for multiple products have remained at constant levels and even shown to increase for some products. The analysis performed did not demonstrate a sensitivity or a strong connection between rising emissions and increases in temperatures to changes in agricultural yield. In contrast, the costs of food and producer pricing have increased, likely as a result of influence from economic policies and market conditions.
 
 ## Project Background
