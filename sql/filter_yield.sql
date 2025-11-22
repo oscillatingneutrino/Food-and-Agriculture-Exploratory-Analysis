@@ -18,3 +18,6 @@ SELECT *
 		ON p.item = q.item
 WHERE twentyfour = 24
 ORDER BY q.item ASC
+
+
+-- Alternatively, one can use a HAVING COUNT(DISTINCT country) = 3 instead of the method used in cte, but this method obtains complete data.
