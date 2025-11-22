@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Executive Summary](#Executive-Summary)
 - [Project Background](#Project-Background)
+- [Methods](#Methods)
 - [Trends in Emissions and Changes in Land Temperatures](#Trends-in-Emissions-and-Changes-in-Land-Temperatures)
 - [Trend in Total Agricultural Yield](#Trend-In-Total-Agricultural-Yield)
 - [Explanation of Differences in Product Pricing](#Explanation-of-Differences-in-Product-Pricing)
@@ -31,9 +32,14 @@ Overall, agricultural yields for multiple products have remained at constant lev
 ## Project Background
 This project used data from the Food and Agriculture Organization of the United Nations's publically available datasets, which provide standardized economic data and agricultural/environmental indicators. This project focuses specifically on data for Canada, Mexico, and the United States. The project made use of Excel, Tableau, and MySQL to prepare and visualize the provided data.
 
+## Methods
+Filtering for data pertinent to analysis was done using Excel and SQL. An example of the filtering performed is available in the ![sql](sql) folder. Relevant quantities were grouped in Tableau Dashboards.
+
 ## Trends in Emissions and Changes in Land Temperatures
 ![tempemit.png](TableauDashScreenshots/tempemit.png)
 *The overall emission, emission intensity, and temperature growth for Mexico, Canada, and the United States. temperature growth and total emissions are on a rising trend; emission intensity shows gradual decrease. Data taken from Faostat.*
+
+*Tableau Link: https://public.tableau.com/views/ProducerPrices_17637672946740/producerpricesdash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 From 2016 to 2021, land temperatures across all three countries experienced major variation; from 2016 to 2019, the median change in temperature decreased for each country, but from 2019 to 2023, Mexico experienced a gradual increment in temperature, while Canada nearly doubled its median change in temperature (234.20% increment); on the other hand, the United States, which had the highest median value, has declined in temperature growth to a value 73.40% that of its value in 2016.
 
@@ -48,6 +54,8 @@ The performed analysis explains that land temperatures will continue to increase
 ![yields.png](TableauDashScreenshots/yields.png)
 *The total yield across all sources for Mexico, Canada, and the United States. Overall yields show consistent progress in increments. Data taken from Faostat.*
 
+*Tableau Link: https://public.tableau.com/views/YieldsDash/yields?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
+
 Agricultural yield has remained at consistent levels despite increases in changes in land temperature and total emissions. The release of greenhouse gases, the rises in global temperature, and the consequent effects this process has had on the environment is more nuanced and outside of the scope of this project.
 
 The NASA article, "*Rising Carbon Dioxide Levels Will Help and Hurt Crops*" explores how the increases in the concentration of Carbon Dioxide in the atmosphere can have the effect of mitigating yield losses while also increasing water use efficiency through the increase in the rate in photosynthesis under certain conditions; this effect, however, does not overshadow any negative effects caused by increased Carbon Dioxide emissions.
@@ -60,6 +68,8 @@ In this dataset, yields displayed a low sensitivity with total emissions and ris
 ![sampleproducerprices.png](TableauDashScreenshots/sampleproducerprices.png)
 *Sample producer prices for Mexico, Canada, and the United States. Producer prices have only increased for all countries. Data taken from Faostat.*
 
+*Tableau Link: https://public.tableau.com/views/ProducerPrices_17637672946740/producerpricesdash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
+
 Product prices for Mexico far exceed those of its northern neighbors. Not only that, but product pricing has continued to increase across all products. This result is due to a variety of factors: 
 * Mexico imports materials like fertilizers and pesticides, both of which have a high cost because of the war between Russia and Ukraine
 * Disruptions in the supply chain caused by COVID-19 impacted the cost of products (an issue that has also affected the US and Canada)
@@ -69,6 +79,8 @@ Product prices for Mexico far exceed those of its northern neighbors. Not only t
 ## Trends in Affordability and Inflation
 ![TableauDashScreenshots/newaffordability.png](TableauDashScreenshots/newaffordability.png)
 *The Changes in Affordability and Inflation for Mexico, Canada, and the United States. Shown with changes in inflation is the prevalence of the affordability of a healthy diet. Recently, inflation underwent drastic decreases, while a healthy diet has generally decreased in affordability. Data taken from Faostat. Only data from 2017 to 2023 was available for metrics relating to affordability.*
+
+*Tableau Link: https://public.tableau.com/views/AffordabilityandInflation/affordabilityandinflation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 Four different measurements were used to determine the affordability of a healthy diet based on the local currency, affordability of a healthy diet based on the purchasing power of an individual, prevalence of unaffordability, and a count for the number of people incapable of affording a healthy diet. Across all metrics, Mexico had the highest costs of a healthy diet and the highest rates of individuals unable to afford a healthy diet, reaching a peak of about 37.10 million people in 2020, or approximately 30% of the population. Further review reveals that all countries show continuing trends of price increases of a healthy diet. Canada and the United States show marginal increments (1.10 M to 1.20 M and 16.20 M to 16.30 M, respectively) in the amount of people incapable of affording a healthy diet, but Mexico has reduced the amount of people by about 9 million.
 
