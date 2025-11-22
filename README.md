@@ -7,6 +7,7 @@
 - [Methods](#Methods)
 - [Trends in Emissions and Changes in Land Temperatures](#Trends-in-Emissions-and-Changes-in-Land-Temperatures)
 - [Trend in Total Agricultural Yield](#Trend-In-Total-Agricultural-Yield)
+- [Scatterplots Between Key Metrics](#Scatterplots-Between-Key-Metrics)
 - [Explanation of Differences in Product Pricing](#Explanation-of-Differences-in-Product-Pricing)
 - [Trends in Inflation and Affordability](#Trends-in-Inflation-and-Affordability)
 - [Acknowledgements](#Acknowledgements)
@@ -68,6 +69,7 @@ Agricultural yield has remained at consistent levels despite growth in changes i
 
 The NASA article, "*Rising Carbon Dioxide Levels Will Help and Hurt Crops*" explores how the increases in the concentration of Carbon Dioxide in the atmosphere can have the effect of mitigating yield losses while also having greater water use efficiency through higher rates in photosynthesis under certain conditions; this effect, however, does not overshadow any negative effects caused by excessive Carbon Dioxide emissions.
 
+## Scatterplots Between Key Metrics
 
 ## Explanation of Differences in Product Pricing
 
