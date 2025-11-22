@@ -30,12 +30,14 @@ This report incorporates data from FAOSTAT and utilizes Excel, MySQL, and Tablea
 Overall, the analysis performed did not demonstrate a sensitivity between rising emissions and increases in temperatures to changes in agricultural yield. The costs of food and producer pricing have increased, but these are likely a result of influence from economic policies and market conditions rather than environmental factors.
 
 ## Project Background
-This project used data from the Food and Agriculture Organization of the United Nations's publically available datasets, which provide standardized economic data and agricultural/environmental indicators. This project focuses specifically on data for Canada, Mexico, and the United States. The project made use of Excel, Tableau, and MySQL to prepare and visualize the provided data.
+This project used data from the Food and Agriculture Organization of the United Nations's publically available datasets, which provide standardized economic data and agricultural/environmental indicators. This project focuses specifically on data for Canada, Mexico, and the United States. The project made use of Excel, Tableau, Python, and MySQL to prepare and visualize the provided data.
 
 ## Methods
 The FAOSTAT datasets contained an insignificant amount of missing data and no meaningful outliers. The units used are dependent on the indicator (e.g. the data for yields was filtered for the unit kg/ha). Only standardized currency values were used for financial indicators.
 
 Missing values were found exclusively for yields dataset. The goal was to find products produced by all three countries from 2016 to 2023. Not all products were produced by each country, and products produced by each country were occasionally missing values. In order to solve this issue, a common table expression was used to count the instances in which a product was mentioned for each year (8 total); since there are only three countries, in order for a product to be considered, a total of 24 entries was required. This method removed products with missing data and/or were not produced by all countries. 
+
+MySQL was used to both group values based on Country and Year and join relevant tables. Python was then used to create scatterplots using Pandas and Matplotlib.
 
 To avoid issues with extensive run-time, extraneous markers and codes (such as added notes to each data point) were either removed using Excel, or excluded in SQL queries. 
 
