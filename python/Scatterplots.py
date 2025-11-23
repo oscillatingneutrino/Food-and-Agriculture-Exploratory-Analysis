@@ -1,9 +1,9 @@
 import pandas as pd
 from matplotlib import pyplot as plt
 
-df = pd.read_csv('/Users/d404me/Downloads/first_scatter.csv')
-df2 = pd.read_csv('/Users/d404me/Downloads/second_scatter.csv')
-df3 = pd.read_csv('/Users/d404me/Downloads/third_scatter.csv')
+df = pd.read_csv('first_scatter.csv')
+df2 = pd.read_csv('second_scatter.csv')
+df3 = pd.read_csv('third_scatter.csv')
 
 
 y = 'emissions_avg'
