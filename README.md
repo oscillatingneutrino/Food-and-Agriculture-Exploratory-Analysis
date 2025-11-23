@@ -48,7 +48,7 @@ Global filters for Country and Year range were created using Tableau and applied
 ![tempemit.png](TableauDashScreenshots/tempemit.png)
 *The overall emission, emission intensity, and temperature growth for Mexico, Canada, and the United States. Temperature growth and total emissions are on a rising trend; emission intensity shows gradual decrease. Data taken from FAOSTAT.*
 
-*Tableau Link: https://public.tableau.com/views/ProducerPrices_17637672946740/producerpricesdash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
+*Tableau Link: https://public.tableau.com/views/EmissionsandTemperature/emissionsandtemperature?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 From 2016 to 2021, land temperatures across all three countries experienced substantial fluctuations. Between 2016 to 2019, the median change in temperature was reduced for each country. From 2019 to 2023, Mexico experienced a gradual ascent in temperature, while Canada more than tripled its median change in temperature (234.20%). The United States- which had the highest median value- declined in temperature growth to a value 73.40% that of its value in 2016.
 
