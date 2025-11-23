@@ -22,11 +22,11 @@ This report incorporates data from FAOSTAT and utilizes Excel, MySQL, and Tablea
 
 * **Land Temperatures:** Changes in land temperatures have seen a stark increase and are expected to continue rising for Canada and Mexico. Currently, the increase for Canada is approximately 1 °C higher than that of the United States and Mexico.
 * **Total Emissions:** The United States had the highest median emissions - approximately 400 kt higher than that of Canada and Mexico. U.S. emissions fell to 38% of their value from 2021 by 2023. Emissions for Canada have shown a recent rise, while those of Mexico have diminished slightly.
-* **Emission Intensity:** Emission intensity is on a slight decline, but has remained relatively stable. The exception to this trend is, "Cereals excluding rise", which had a 75% dropoff in value.
+* **Emission Intensity:** Emission intensity is on a slight decline, but has remained relatively stable. The exception to this trend is, "Cereals excluding rice", which had a 75% dropoff in value.
 * **Agricultural Yields:** There is minimally observed variance in the agricultural yield, though some sources (e.g. green corn, potatoes) have shown gradual increases.
 * **Producer Prices:** Producer prices of Mexico heavily outweigh those of the United States and Canada for almost all agricultural products. Green coffee from the United States is the exception, with a producer price approximately 36,000 SLC units higher than that of Mexico.
 * **Affordability of a Healthy Diet:** Affordability has declined for Mexico and the United States; Canada experienced minimal increases.
-*  **Inflation in Food Pricing:** Inflation experienced steaady growth through 2022, then decreased for all three countries. Canada had the smallest decline in inflation (10%), while the United States had the highest (66.39%).
+*  **Inflation in Food Pricing:** Inflation experienced steady growth through 2022, then decreased for all three countries. Canada had the smallest decline in inflation (10%), while the United States had the highest (66.39%).
   
 Overall, the analysis performed did not demonstrate a sensitivity between rising emissions and increases in temperatures to changes in agricultural yield. The costs of food and producer pricing have increased, but these are likely a result of influence from economic policies and market conditions rather than environmental factors.
 
@@ -50,9 +50,9 @@ Global filters for Country and Year range were created using Tableau and applied
 
 *Tableau Link: https://public.tableau.com/views/ProducerPrices_17637672946740/producerpricesdash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
-From 2016 to 2021, land temperatures across all three countries experienced substantial fluctutations. Between 2016 to 2019, the median change in temperature was reduced for each country. From 2019 to 2023, Mexico experienced a gradual ascent in temperature, while Canada more than tripled its median change in temperature (234.20%). The United States- which had the highest median value- declined in temperature growth to a value 73.40% that of its value in 2016.
+From 2016 to 2021, land temperatures across all three countries experienced substantial fluctuations. Between 2016 to 2019, the median change in temperature was reduced for each country. From 2019 to 2023, Mexico experienced a gradual ascent in temperature, while Canada more than tripled its median change in temperature (234.20%). The United States- which had the highest median value- declined in temperature growth to a value 73.40% that of its value in 2016.
 
-The United States was the highest contributor for all emissions from 2016 to 2023. Although emissions rose during 2016 to 2017 and 2019 to 2020, by 2023, total emissions were only 8% higher than those of 2016. Mexico, which had the lowest emissions, saw an average rise of 31.73 kt per year from 2018 to 2020, followed by a decline to a value 88.62% that of 2016. Canada's emissions mirrored its temperature growth trends: sharp growths from 2020 to 2021 and 2022 to 2023, ultimately culminating in a 178.44% increment over the study period.
+The United States was the highest contributor for all emissions from 2016 to 2023. Although emissions rose during 2016 to 2017 and 2019 to 2020, by 2023, total emissions were only 8% higher than those of 2016. Mexico, which had the lowest emissions, saw an average rise of 31.73 kt per year from 2018 to 2020, followed by a decline to a value 88.62% that of 2016. Canada's emissions mirrored its temperature growth trends: sharp growths from 2020 to 2021 and 2022 to 2023, ultimately culminating in a 178.44% increase.
 
 Emission intensity has remained on a gradual long-term decrease, with less than 10% year on year variations in intensity. Only, "rice" and "cereals excluding rice" were the exceptions, with the latter dropping to 24.23% of its intensity measure in 2021 by 2023 (for Canada).
 
@@ -65,7 +65,7 @@ The performed analysis indicates a continued pressure for land temperatures to i
 
 *Tableau Link: https://public.tableau.com/views/YieldsDash/yields?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
-Agricultural yield has remained at consistent levels despite growth in changes in land temperature and total emissions. Yields displayed a minimal correlationa with total emissions and rising land temperatures. The behavior of each of the mentioned quantities is likely to be a sum of other factors not included or portrayed by the data being used, such as better soil quality, or advancements in irrigation, farming practices, and technology.
+Agricultural yield has remained at consistent levels despite growth in changes in land temperature and total emissions. Yields displayed a minimal correlation with total emissions and rising land temperatures. The behavior of each of the mentioned quantities is likely to be a sum of other factors not included or portrayed by the data being used, such as better soil quality, or advancements in irrigation, farming practices, and technology.
 
 The NASA article, "*Rising Carbon Dioxide Levels Will Help and Hurt Crops*" explores how the increases in the concentration of Carbon Dioxide in the atmosphere can have the effect of mitigating yield losses while also having greater water use efficiency through higher rates in photosynthesis under certain conditions; this effect, however, does not overshadow any negative effects caused by excessive Carbon Dioxide emissions.
 
@@ -75,13 +75,13 @@ The NASA article, "*Rising Carbon Dioxide Levels Will Help and Hurt Crops*" expl
 ![Python-Scatterplots/yt.png](Python-Scatterplots/et.png)
 *A scatterplot comparing average total emissions (regardless of emission) and average changes in temperature. Data for each point was connected by country and year and was separated by country.*
 
-When attempting to identify trends in the comparison between emissions and changes in temperature, it becomes evident that regardless of the amount of emissions, changes in temperature will continue to occur and reach the same temperature change values. This trend gives credit to the idea that emissions and changes in temperature have some correlation, but having higher emissions does not necessarily mean that the temperature will change at higher rates.
+When attempting to identify trends in the comparison between emissions and changes in temperature, it becomes evident that regardless of the amount of emissions, changes in temperature will continue to occur and reach the same temperature change values. This trend supports idea that emissions and changes in temperature have some correlation, but having higher emissions does not necessarily mean that the temperature will change at higher rates.
 
 ### Average Yields vs Changes in Temperature
 ![Python-Scatterplots/ye.png](Python-Scatterplots/yt.png)
 *A scatterplot comparing average yields (grouped regardless of source) and average changes in temperature. Data for each point was connected by country and year and was separated by country.*
 
-The above graph follows the same trend depicted by the comparison between average total emissions and average changes in temperatures. This graphic reveals that having higher changes in land temperatures will not necessarily lead to increments in yield, and thus other factors must contribute to changes in the amount of yields obtained per year.
+The above graph follows the same trend depicted by the comparison between average total emissions and average changes in temperatures. This graphic reveals that having higher changes in land temperatures will not necessarily lead to increments in yield.
 
 ### Average Yields vs Average Total Emissions
 ![Python-Scatterplots/et.png](Python-Scatterplots/ye.png)
