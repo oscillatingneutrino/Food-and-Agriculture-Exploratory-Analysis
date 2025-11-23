@@ -73,11 +73,17 @@ The NASA article, "*Rising Carbon Dioxide Levels Will Help and Hurt Crops*" expl
 
 ### Total Emissions vs Changes in Temperatures
 ![TableauDashScreenshots/first_scatter_image.png](TableauDashScreenshots/first_scatter_image.png)
-*A scatterplot comparing average total emissions and average changes in temperature. Data for each point was connected by country and by year.*
+*A scatterplot comparing average total emissions and average changes in temperature. Data for each point was connected by country and year.*
 
 When attempting to identify trends in the comparison between emissions and changes in temperature, it becomes evident that regardless of the amount of emissions, changes in temperature will continue to occur and reach the same temperature change values. This trend gives credit to the idea that emissions and changes in temperature have some correlation, but having higher emissions does not necessarily mean that the temperature will change at higher rates.
 
-### 
+### Average Yields vs Changes in Temperature
+![TableauDashScreenshots/yields_and_temp.png](TableauDashScreenshots/yields_and_temp.png)
+*A scatterplot comparing average yields (grouped regardless of source) and average changes in temperature. Data for each point was connected by country and year.*
+
+The above graph follows the same trend depicted by the comparison between average total emissions and average changes in temperatures. This graphic reveals that having higher changes in land temperatures will not necessarily lead to increments in yield, and thus other factors must contribute to changes in the amount of yields obtained per year.
+
+### Average Yields vs Average Total Emissions
 
 ## Explanation of Differences in Product Pricing
 
