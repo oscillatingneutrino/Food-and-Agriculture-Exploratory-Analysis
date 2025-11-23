@@ -70,7 +70,8 @@ Agricultural yield has remained at consistent levels despite growth in changes i
 The NASA article, "*Rising Carbon Dioxide Levels Will Help and Hurt Crops*" explores how the increases in the concentration of Carbon Dioxide in the atmosphere can have the effect of mitigating yield losses while also having greater water use efficiency through higher rates in photosynthesis under certain conditions; this effect, however, does not overshadow any negative effects caused by excessive Carbon Dioxide emissions.
 
 ## Scatterplots Between Key Metrics
-
+![TableauDashScreenshots/first_scatter_image.png](TableauDashScreenshots/first_scatter_image.png)
+*A scatterplot comparing average total emissions and average changes in temperature. Data for each point was connected by country and by year.*
 ## Explanation of Differences in Product Pricing
 
 ![sampleproducerprices.png](TableauDashScreenshots/sampleproducerprices.png)
