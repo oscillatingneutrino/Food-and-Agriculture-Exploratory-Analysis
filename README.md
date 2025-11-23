@@ -84,7 +84,7 @@ When attempting to identify trends in the comparison between emissions and chang
 The above graph follows the same trend depicted by the comparison between average total emissions and average changes in temperatures. This graphic reveals that having higher changes in land temperatures will not necessarily lead to increments in yield, and thus other factors must contribute to changes in the amount of yields obtained per year.
 
 ### Average Yields vs Average Total Emissions
-![TableauDashScreenshots/yields_and_emissions.png](TableauDashScreenshots/yields_and_emissions.png)
+![Python-Scatterplots/et.png](Python-Scatterplots/et.png)
 *A scatterplot comparing average yields (grouped regardless of source) and average total emissions (regardless of emission). Data for each point was connected by country and year and was separated by country.*
 
 The above graphic reveals an interesting trend: lower emissions correlate to lower yields, while higher emissions correlate to significantly higher yields. This comparison supports the previously mentioned detail that greenhouse emissions can have the effect of increasing product yield.
